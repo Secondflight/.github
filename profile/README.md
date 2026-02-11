@@ -2,9 +2,9 @@
 
 # Repos
 
-- secondflight.backend
-- secondflight.frontend
+- [secondflight.frontend](https://github.com/Secondflight/secondflight-frontend)
+- [secondflight.backend](https://github.com/Secondflight/secondflight-backend)
 
 # Project
 
-- secondflight.ch
+- [secondflight.ch](https://github.com/orgs/Secondflight/projects/1)
