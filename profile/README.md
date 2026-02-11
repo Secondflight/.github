@@ -1,10 +1,8 @@
-# secondflight.ch
-
-# Repos
+## Repos
 
 - [secondflight.frontend](https://github.com/Secondflight/secondflight-frontend)
 - [secondflight.backend](https://github.com/Secondflight/secondflight-backend)
 
-# Project
+## Project
 
 - [secondflight.ch](https://github.com/orgs/Secondflight/projects/1)
